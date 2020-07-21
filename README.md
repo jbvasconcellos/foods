@@ -1,4 +1,4 @@
-# foods
+# Foods
 
 This repository contains a project I am developing about the macronutrients and fibers' contents on different foods.
 
