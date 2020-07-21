@@ -1,6 +1,6 @@
 # foods
 
-This repository contains a project I am developing about the macronutrients and fibers contents on different foods.
+This repository contains a project I am developing about the macronutrients and fibers' contents on different foods.
 
 As many other people around the word, I spent a few months at home due to the present pandemic crisis. Luckly, I have been among those privileged ones who have remained safe enough, and who could use this time to reflect on different aspects of their lifes. In particular, in this time I decided to give a better look at my diet and eating habits (after three year living in Italy and having just returned from a long visit to my mom's and to my grandma's, lets just say I was in need of doing so!).
 
