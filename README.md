@@ -1,4 +1,4 @@
-# Foods
+# Personal diet Project
 
 This repository contains a project I am developing about the macronutrients and fibers' contents on different foods.
 
